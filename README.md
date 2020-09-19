@@ -27,8 +27,6 @@ I'm a Full Stack Developer Junior from Brazil, 27 years old and 2 years of codin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<br />
-
 ### 💬 Stats
 
 ![GuilhermeManzano GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermemanzano&show_icons=true)
