@@ -1,4 +1,4 @@
-### Hello, I'm Guilherme ! 👋
+## Hello, I'm Guilherme ! 👋
 
 <hr>
 
@@ -6,7 +6,7 @@ I'm a Full Stack Developer Junior from Brazil, 27 years old and 2 years of codin
 <br />
 
 
-📫 How to find me
+📫 <h3>How to find me</h3>
 <div>
 <a target="_blank" href="https://www.linkedin.com/in/guilherme-manzano">
   <img alt="LinkdeIN" width="22px" margin-left="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,7 +17,7 @@ I'm a Full Stack Developer Junior from Brazil, 27 years old and 2 years of codin
 
 <br />
 
-🌱 Languages
+### 🌱 Languages
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -30,9 +30,11 @@ I'm a Full Stack Developer Junior from Brazil, 27 years old and 2 years of codin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br />
-💬 Stats
+### 💬 Stats
 
 ![GuilhermeManzano GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermemanzano&show_icons=true)
+
+
 <!--
 **GuilhermeManzano/guilhermemanzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
