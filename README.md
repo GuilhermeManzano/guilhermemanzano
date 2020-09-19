@@ -1,12 +1,10 @@
 ## Hello, I'm Guilherme ! 👋
 
-<hr>
-
 I'm a Full Stack Developer Junior from Brazil, 27 years old and 2 years of coding and technology. I'm graduate in mechanical enginner and studying analysis and systems development. I write some articles about technoloy, programming and carrer on Medium. A book :book: lover and a amateur :video_game: video-game player.
 <br />
 
 
-📫 <h3>How to find me</h3>
+### 📫 How to find me
 <div>
 <a target="_blank" href="https://www.linkedin.com/in/guilherme-manzano">
   <img alt="LinkdeIN" width="22px" margin-left="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
