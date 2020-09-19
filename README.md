@@ -6,7 +6,7 @@ I'm a Full Stack Developer Junior from Brazil, 27 years old and 2 years of codin
 
 ### 📫 How to find me
 <div>
-<a target="_blank" href="https://www.linkedin.com/in/guilherme-manzano">
+<a target="_blank" href="https://www.linkedin.com/in/guilhermemanzano/">
   <img alt="LinkdeIN" width="22px" margin-left="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://medium.com/@guilherme_manzano">
@@ -28,6 +28,7 @@ I'm a Full Stack Developer Junior from Brazil, 27 years old and 2 years of codin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br />
+
 ### 💬 Stats
 
 ![GuilhermeManzano GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermemanzano&show_icons=true)
