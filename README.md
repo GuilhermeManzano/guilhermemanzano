@@ -1,6 +1,6 @@
 ## Hello, I'm Guilherme ! 👋
 
-I'm a Backend Developer from Brazil, 29 years old and 4 years of coding. I'm graduate in mechanical enginner and in analysis and systems development. I write some articles about technoloy, programming and carrer on Medium. A book :book: lover and a amateur :video_game: video-game player.
+I'm a Backend Developer from Brazil with 4 years of coding. I'm graduate in mechanical enginner and in analysis and systems development. I write some articles about technoloy, programming and carrer on Medium. A book :book: lover and a amateur :video_game: video-game player. I'm working actually in Creditas.
 <br />
 
 
