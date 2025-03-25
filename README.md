@@ -1,6 +1,6 @@
 ## Hello, I'm Guilherme ! 👋
 
-I'm a Backend Developer from Brazil with more than 4 years of coding. I'm graduate in mechanical enginner and in systems analysis development. I write some articles about technoloy, programming and carrer on Medium. A book :book: lover and a amateur :video_game: video-game player. I'm working actually in Creditas.
+I'm a Backend Developer from Brazil with more than 5 years of coding. I'm graduate in mechanical enginner and in systems analysis development. I write some articles about technoloy, programming and carrer on Medium. A book :book: lover and a amateur :video_game: video-game player. I'm working actually in NuvemShop/TiendaNube.
 <br />
 
 ### 📫 How to find me
